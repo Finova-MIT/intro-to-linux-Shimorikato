@@ -136,13 +136,15 @@ After successfully installing a Linux distro, create a write-up in your reposito
 # Proof of Completion
 
 ## Name:
-(Your full name)
+Rohan Sampat
 
 ## Registration Number:
-(Your registration number)
+230958005
 
-## Screenshot of Terminal:
-(Attach the screenshot of your Linux terminal)
+##Screenshot of Terminal:
 ```
+![image](https://github.com/user-attachments/assets/45439929-0d57-4cd8-b89a-f369d55bdc85)
+
+
 
 Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
